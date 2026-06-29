@@ -18,9 +18,6 @@ A responsive photo gallery application built with React and Tailwind CSS, powere
 ### Preview Modal
 ![Preview Modal](./screenshots/Preview.png)
 
-### Preview Modal — Author Display
-![Preview Modal with Author](./screenshots/Preview2.png)
-
 ---
 
 ## ✨ Features
